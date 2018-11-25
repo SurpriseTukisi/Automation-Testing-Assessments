@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8613" started-at="2018-11-25T20:42:16Z" finished-at="2018-11-25T20:42:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8613" started-at="2018-11-25T20:42:16Z" finished-at="2018-11-25T20:42:24Z">
+      <class name="CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest">
+        <test-method status="PASS" signature="getSubBreedsOfRetrieverDog()[pri:0, instance:CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest@1d057a39]" name="getSubBreedsOfRetrieverDog" duration-ms="1947" started-at="2018-11-25T22:42:20Z" finished-at="2018-11-25T22:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSubBreedsOfRetrieverDog -->
+      </class> <!-- CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest -->
+      <class name="CIB_DIGITAL_TECH.ListAllBreedDogsTest">
+        <test-method status="PASS" signature="listAllBreedDogs()[pri:0, instance:CIB_DIGITAL_TECH.ListAllBreedDogsTest@47c62251]" name="listAllBreedDogs" duration-ms="3676" started-at="2018-11-25T22:42:17Z" finished-at="2018-11-25T22:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listAllBreedDogs -->
+      </class> <!-- CIB_DIGITAL_TECH.ListAllBreedDogsTest -->
+      <class name="CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest">
+        <test-method status="PASS" signature="getGoldenSubBreedDog()[pri:0, instance:CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest@6f7fd0e6]" name="getGoldenSubBreedDog" duration-ms="996" started-at="2018-11-25T22:42:23Z" finished-at="2018-11-25T22:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getGoldenSubBreedDog -->
+      </class> <!-- CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest -->
+      <class name="CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest">
+        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest@3e6fa38a]" name="initializeEnvironment" is-config="true" duration-ms="693" started-at="2018-11-25T22:42:16Z" finished-at="2018-11-25T22:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeEnvironment -->
+        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest@1d057a39]" name="initializeEnvironment" is-config="true" duration-ms="1" started-at="2018-11-25T22:42:17Z" finished-at="2018-11-25T22:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeEnvironment -->
+        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.ListAllBreedDogsTest@47c62251]" name="initializeEnvironment" is-config="true" duration-ms="0" started-at="2018-11-25T22:42:17Z" finished-at="2018-11-25T22:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeEnvironment -->
+        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest@6f7fd0e6]" name="initializeEnvironment" is-config="true" duration-ms="0" started-at="2018-11-25T22:42:17Z" finished-at="2018-11-25T22:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeEnvironment -->
+        <test-method status="PASS" signature="verifyThatRetrieverBreedDogExists()[pri:0, instance:CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest@3e6fa38a]" name="verifyThatRetrieverBreedDogExists" duration-ms="1265" started-at="2018-11-25T22:42:22Z" finished-at="2018-11-25T22:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatRetrieverBreedDogExists -->
+      </class> <!-- CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
