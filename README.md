@@ -8,10 +8,9 @@ Run the program by using maven commands: > mvn clean
                                        : > mvn test
 After successfully running the tests, open the project to extract the report file:
 Goto C:\...\Desktop\TASK1_APP\test-output
-Right-click on a HTLM file called ExtentReportsTestNG.html, and select a desired browser
-----------------------------------------------------------
+Right-click on a HTLM file called ExtentReportsTestNG.html, and select a desired browse
+
 Repeat the above steps to run TASK2_WEB project
------------------------------------------------------------
 
 Alternatively, Use Eclipse IDE:
 Import the project in Eclipse IDE
