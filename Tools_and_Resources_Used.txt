@@ -1,0 +1,22 @@
+The list of tools and resources used:
+
+For TASK1_API
+1. Maven
+2. TestNG
+3. Java
+4. RestAssured
+5. JSONPath
+6. ExtentReportsNG
+7. Log4j - log our output data in a log-file instead of printing the output in a console
+8. GitHub
+
+For TASK2_WEB
+1. Maven
+2. TestNG
+3. Java
+4. Selenium web driver
+5. Excel data driven intergration (Apache POI)
+6. ExtentReportsNG
+4. GitHub
+
+
