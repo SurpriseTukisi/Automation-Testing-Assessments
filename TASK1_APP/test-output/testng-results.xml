@@ -2,46 +2,46 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="8613" started-at="2018-11-25T20:42:16Z" finished-at="2018-11-25T20:42:24Z">
+  <suite name="Suite" duration-ms="7785" started-at="2021-02-12T09:19:06Z" finished-at="2021-02-12T09:19:14Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="8613" started-at="2018-11-25T20:42:16Z" finished-at="2018-11-25T20:42:24Z">
+    <test name="Test" duration-ms="7785" started-at="2021-02-12T09:19:06Z" finished-at="2021-02-12T09:19:14Z">
       <class name="CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest">
-        <test-method status="PASS" signature="getSubBreedsOfRetrieverDog()[pri:0, instance:CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest@1d057a39]" name="getSubBreedsOfRetrieverDog" duration-ms="1947" started-at="2018-11-25T22:42:20Z" finished-at="2018-11-25T22:42:22Z">
+        <test-method status="PASS" signature="getSubBreedsOfRetrieverDog()[pri:0, instance:CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest@59fa1d9b]" name="getSubBreedsOfRetrieverDog" duration-ms="1863" started-at="2021-02-12T11:19:09Z" finished-at="2021-02-12T11:19:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSubBreedsOfRetrieverDog -->
       </class> <!-- CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest -->
       <class name="CIB_DIGITAL_TECH.ListAllBreedDogsTest">
-        <test-method status="PASS" signature="listAllBreedDogs()[pri:0, instance:CIB_DIGITAL_TECH.ListAllBreedDogsTest@47c62251]" name="listAllBreedDogs" duration-ms="3676" started-at="2018-11-25T22:42:17Z" finished-at="2018-11-25T22:42:20Z">
+        <test-method status="PASS" signature="listAllBreedDogs()[pri:0, instance:CIB_DIGITAL_TECH.ListAllBreedDogsTest@1bce4f0a]" name="listAllBreedDogs" duration-ms="2762" started-at="2021-02-12T11:19:06Z" finished-at="2021-02-12T11:19:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- listAllBreedDogs -->
       </class> <!-- CIB_DIGITAL_TECH.ListAllBreedDogsTest -->
       <class name="CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest">
-        <test-method status="PASS" signature="getGoldenSubBreedDog()[pri:0, instance:CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest@6f7fd0e6]" name="getGoldenSubBreedDog" duration-ms="996" started-at="2018-11-25T22:42:23Z" finished-at="2018-11-25T22:42:24Z">
+        <test-method status="PASS" signature="getGoldenSubBreedDog()[pri:0, instance:CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest@3bfdc050]" name="getGoldenSubBreedDog" duration-ms="1208" started-at="2021-02-12T11:19:12Z" finished-at="2021-02-12T11:19:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getGoldenSubBreedDog -->
       </class> <!-- CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest -->
       <class name="CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest">
-        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest@3e6fa38a]" name="initializeEnvironment" is-config="true" duration-ms="693" started-at="2018-11-25T22:42:16Z" finished-at="2018-11-25T22:42:17Z">
+        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest@5e3a8624]" name="initializeEnvironment" is-config="true" duration-ms="335" started-at="2021-02-12T11:19:06Z" finished-at="2021-02-12T11:19:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeEnvironment -->
-        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest@1d057a39]" name="initializeEnvironment" is-config="true" duration-ms="1" started-at="2018-11-25T22:42:17Z" finished-at="2018-11-25T22:42:17Z">
+        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.ListAllBreedDogsTest@1bce4f0a]" name="initializeEnvironment" is-config="true" duration-ms="0" started-at="2021-02-12T11:19:06Z" finished-at="2021-02-12T11:19:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeEnvironment -->
-        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.ListAllBreedDogsTest@47c62251]" name="initializeEnvironment" is-config="true" duration-ms="0" started-at="2018-11-25T22:42:17Z" finished-at="2018-11-25T22:42:17Z">
+        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest@3bfdc050]" name="initializeEnvironment" is-config="true" duration-ms="1" started-at="2021-02-12T11:19:06Z" finished-at="2021-02-12T11:19:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeEnvironment -->
-        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest@6f7fd0e6]" name="initializeEnvironment" is-config="true" duration-ms="0" started-at="2018-11-25T22:42:17Z" finished-at="2018-11-25T22:42:17Z">
+        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest@59fa1d9b]" name="initializeEnvironment" is-config="true" duration-ms="0" started-at="2021-02-12T11:19:06Z" finished-at="2021-02-12T11:19:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeEnvironment -->
-        <test-method status="PASS" signature="verifyThatRetrieverBreedDogExists()[pri:0, instance:CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest@3e6fa38a]" name="verifyThatRetrieverBreedDogExists" duration-ms="1265" started-at="2018-11-25T22:42:22Z" finished-at="2018-11-25T22:42:23Z">
+        <test-method status="PASS" signature="verifyThatRetrieverBreedDogExists()[pri:0, instance:CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest@5e3a8624]" name="verifyThatRetrieverBreedDogExists" duration-ms="1596" started-at="2021-02-12T11:19:11Z" finished-at="2021-02-12T11:19:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyThatRetrieverBreedDogExists -->
