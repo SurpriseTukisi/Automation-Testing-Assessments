@@ -11,16 +11,17 @@ import org.testng.annotations.Test;
 import junit.framework.Assert;
 import pageObjects.AddUserModalDialog;
 import pageObjects.UserListTablePage;
+import resources.BaseClass;
 import resources.base;
 
-public class UserListTableWebTest extends base{
+public class UserListTableWebTest extends BaseClass{
 	
 	WebDriver driver;
 	
 	@BeforeTest
 	public void initialize() throws IOException
 	{
-		driver = InitializeDriver();
+		driver = initialize_driver();
 	}
 	
 	@Test(dataProvider="getData")
